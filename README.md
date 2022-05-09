@@ -6,4 +6,4 @@
  * @Description: 
 -->
 # cli-template
-模板项目ddd
+模板项目
